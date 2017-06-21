@@ -8,3 +8,4 @@ Team Members
 *Josh
 *Xiwen
 *Ali
+*Kristen
