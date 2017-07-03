@@ -17,17 +17,17 @@
 \contentsline {subsubsection}{\numberline {10.3.2}Sprint Backlog}{8}
 \contentsline {subsubsection}{\numberline {10.3.3}Task Breakdown}{8}
 \contentsline {subsection}{\numberline {10.4}Sprint Burndown Charts}{8}
-\contentsline {subsection}{\numberline {10.5}Sprint Retrospective}{8}
-\contentsline {subsection}{\numberline {10.6}Individual Status Reports}{8}
-\contentsline {subsection}{\numberline {10.7}Engineering Notebooks}{9}
-\contentsline {subsection}{\numberline {10.8}Closeout Materials}{9}
-\contentsline {subsubsection}{\numberline {10.8.1}System Prototype}{9}
-\contentsline {subsubsection}{\numberline {10.8.2}Project Poster}{9}
-\contentsline {subsubsection}{\numberline {10.8.3}Web Page}{9}
-\contentsline {subsubsection}{\numberline {10.8.4}Demo Video}{9}
+\contentsline {subsection}{\numberline {10.5}Sprint Retrospective}{9}
+\contentsline {subsection}{\numberline {10.6}Individual Status Reports}{9}
+\contentsline {subsection}{\numberline {10.7}Engineering Notebooks}{10}
+\contentsline {subsection}{\numberline {10.8}Closeout Materials}{10}
+\contentsline {subsubsection}{\numberline {10.8.1}System Prototype}{10}
+\contentsline {subsubsection}{\numberline {10.8.2}Project Poster}{10}
+\contentsline {subsubsection}{\numberline {10.8.3}Web Page}{10}
+\contentsline {subsubsection}{\numberline {10.8.4}Demo Video}{10}
 \contentsline {subsubsection}{\numberline {10.8.5}Source Code}{10}
 \contentsline {subsubsection}{\numberline {10.8.6}Source Code Documentation}{10}
 \contentsline {subsubsection}{\numberline {10.8.7}Hardware Schematics}{10}
 \contentsline {subsubsection}{\numberline {10.8.8}CAD files}{10}
-\contentsline {subsubsection}{\numberline {10.8.9}Installation Scripts}{10}
-\contentsline {subsubsection}{\numberline {10.8.10}User Manual}{10}
+\contentsline {subsubsection}{\numberline {10.8.9}Installation Scripts}{11}
+\contentsline {subsubsection}{\numberline {10.8.10}User Manual}{11}
