@@ -1,0 +1,11 @@
+*.aux
+*.dvi
+*.fdb_latexmk
+*.fls
+*.hst
+*.log
+*.lof
+*.lot
+*.toc
+*.ver
+*.gz

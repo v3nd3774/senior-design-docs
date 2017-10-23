@@ -23,6 +23,7 @@
 \usepackage[compact]{titlesec} 
 \usepackage[tablegrid]{vhistory}
 \usepackage{pbox}
+\usepackage{relsize}
 \allsectionsfont{\color{accentcolor}\scshape\selectfont}
 
 %%% Definitions
@@ -70,13 +71,12 @@
 \vspace{0.5 in}
 \begin{figure}[h!]
 	\centering
-   	\includegraphics[width=0.60\textwidth]{images/test_image}
+   	\includegraphics[width=0.60\textwidth]{images/logo12}
 \end{figure}
 \vspace{0.5 in}
 {\centering \huge \color{accentcolor} \sc \textbf{\teamname \\ \productname} \par}
 \vspace{0.5 in}
 {\centering \large \sc \textbf{\authors} \par}
-\newpage
 
 
 %\vspace{1 in}
@@ -87,12 +87,10 @@
 \begin{versionhistory}
   	\vhEntry{0.1}{10.22.2017}{GH}{document creation}
 \end{versionhistory}
-\newpage
 
 %%% Table of contents
 \setcounter{tocdepth}{2}
 \tableofcontents
-\newpage
 
 %%% List of figures and tables (optional)
 \listoffigures
@@ -102,21 +100,28 @@
 %%% Document sections
 \section{Introduction}
 \input{tex/introduction.tex}
+\newpage
+
 \section{Architecture Overview}
 \input{tex/system_overview.tex}
 \newpage
+
 \section{Subsystem Definitions \& Data Flow}
 \input{tex/data_flow.tex}
 \newpage
+
 \section{Client Layer Subsystems}
 \input{tex/client_layer_subsystems.tex}
 \newpage
+
 \section{Server Layer Subsystems}
 \input{tex/server_layer_subsystems.tex}
 \newpage
+
 \section{Appendix A}
 \input{tex/appendix_a.tex}
 \newpage
+
 
 %%% References
 \bibliographystyle{plain}
